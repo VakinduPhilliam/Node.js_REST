@@ -1,6 +1,6 @@
 REST APIs are all over the web, but without the proper tools, Node apps require a ton of boilerplate code. 
 
-These apps explore next generation concepts in Node.js application development, including among others; 
+These apps explore next generation concepts in Node.js application development, including; 
 
 > Okta to implement the Client Credentials Flow, which securely connects two machines together without the context of a user.
 
