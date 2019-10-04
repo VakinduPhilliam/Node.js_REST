@@ -1,0 +1,66 @@
+{
+  
+
+"name": "movie-catalog",
+  
+"version": "0.1.0",
+  
+"description": "Movie Catalog API",
+  
+"main": "src/index.js",
+  
+"scripts": {
+    
+
+"start": "node .",
+    
+"dev": "nodemon --watch src",
+    
+"test": "standard"
+  
+
+},
+  
+"author": "",
+  
+"license": "Apache-2.0",
+  
+"dependencies": {
+    
+
+"@okta/jwt-verifier": "0.0.14",
+    
+"@okta/oidc-middleware": "2.0.0",
+    
+"body-parser": "1.18.3",
+    
+"cors": "2.8.5",
+    
+"dotenv": "6.2.0",
+    
+"express": "4.16.4",
+    
+"express-session": "1.15.6",
+    
+"node-fetch": "2.3.0",
+    
+"pg": "7.8.1",
+    
+"sequelize": "4.43.0"
+  
+
+},
+  
+
+"devDependencies": {
+    
+
+"nodemon": "1.18.10",
+    
+"standard": "12.0.1"
+  
+
+}
+
+
+}
