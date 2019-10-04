@@ -1,4 +1,4 @@
-REST APIs are all over the web, but without the proper tools, Node apps require a ton of boilerplate code. 
+REST APIs are all over the web, but without the proper tools, Node apps require lots of boilerplate code. 
 
 These apps explore next generation concepts in Node.js application development, including; 
 
