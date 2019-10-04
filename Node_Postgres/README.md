@@ -1,18 +1,13 @@
-﻿Node API Development
+# Node API Development
 
 Explored Concepts:
 
+> Storing Record in Database
 
-<h3 align="center">Storing Record in Database</h3>
+> Retrieving Record from Database
 
-<h3 align="center">Retrieving Record from Database</h3>
-<h3 align="center">Updating Records in Database, etc</h3>
+> Updating Records in Database, etc.
 <br/>
-
-
-##
-
-
 
 # NodePostgres
 
