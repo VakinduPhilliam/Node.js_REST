@@ -8,12 +8,12 @@ These apps explore next generation concepts in Node.js application development, 
 
 > Building a cryptocurrency exchange.
 
-> Creating node.js apis with CRUD implementation (get, post, put, delete).
+> Creating node.js apis with CRUD implementation (get, post, patch, put, delete).
 
 > Steaming Web APIs.
 
 
-Installations:
+Technology Installations:
 
 > Node.js
 
