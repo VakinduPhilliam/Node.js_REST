@@ -30,3 +30,5 @@ Technologies:
 > OAuth
 
 > Jest
+
+> JSON Web Token (JWT)
