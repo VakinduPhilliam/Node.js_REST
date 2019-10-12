@@ -13,7 +13,7 @@ These apps explore next generation concepts in Node.js application development, 
 > Steaming Web APIs.
 
 
-Technologies:
+Installations:
 
 > Node.js
 
@@ -34,3 +34,6 @@ Technologies:
 > JSON Web Token (JWT)
 
 > Supertest
+
+> 
+
