@@ -32,3 +32,5 @@ Technologies:
 > Jest
 
 > JSON Web Token (JWT)
+
+> Supertest
