@@ -16,6 +16,17 @@ These apps explore next generation concepts in Node.js application development, 
 Technologies:
 
 > Node.js
+
 > PostgreSQL
+
 > Sequelize
-> 
+
+> Epilogue
+
+> Okta
+
+> Express
+
+> OAuth
+
+> Jest
