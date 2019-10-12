@@ -13,7 +13,7 @@ These apps explore next generation concepts in Node.js application development, 
 > Steaming Web APIs.
 
 
-Technology Installations:
+Technology Installations & Middleware:
 
 > Node.js
 
