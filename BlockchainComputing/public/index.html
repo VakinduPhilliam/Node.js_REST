@@ -1,0 +1,45 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+    <title>Blockchain Super Computer</title> 
+    <style> 
+        .container { 
+            width: 80%; 
+            margin: 1rem auto; 
+        }          
+        .text-justify { 
+            text-align: justify; 
+        } 
+    </style> 
+</head>   
+<body> 
+    <div class="container"> 
+        <p class="text-justify">Blockchain Super Computer</p> 
+    </div>   
+    <div class="container"> 
+        <center> 
+            <button id="process-stop"> Start Processing </button> 
+            <p id="process-count">0 Processes Executed</p> 
+        </center> 
+    </div> 
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script>  
+      var socket = io();
+      var btn = document.getElementById('process-stop');
+      var process_val = false;
+      
+      btn.addEventListener('click', function(e) {
+        e.preventDefault();   // prevent page reloading
+        
+        process_val = process_val ? false: true;
+        
+        socket.emit('process-event', process_val);
+      });
+      
+      socket.on('update-process', function(f_str) {
+        document.getElementById('process-count').innerHTML = f_str;
+      });
+    </script>
+</body> 
+</html> 
