@@ -1,0 +1,20 @@
+{
+  "name": "blockchaincomputing",
+  "version": "1.0.0",
+  "description": "Decentralized Blockchain Super Computer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Decentralized",
+    "Blockchain",
+    "Super",
+    "Computer"
+  ],
+  "author": "Vakindu",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
