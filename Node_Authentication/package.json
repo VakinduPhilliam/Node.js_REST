@@ -47,7 +47,7 @@
 "dependencies": {
     
 
-"bcrypt": "^1.0.3",
+"bcrypt": "^5.0.0",
     
 "bluebird": "^3.5.1",
     
